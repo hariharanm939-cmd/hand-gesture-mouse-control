@@ -1,4 +1,4 @@
-<img width="1384" height="770" alt="image" src="https://github.com/user-attachments/assets/a67de692-00bb-4694-ba8e-08fc411f77ea" /># Hand Gesture Controlled Mouse System
+# Hand Gesture Controlled Mouse System
 
 A computer vision-based project that enables real-time mouse control using hand gestures, improving human-computer interaction without physical input devices.
 
